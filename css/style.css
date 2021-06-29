@@ -21,6 +21,7 @@ a{
 .main-menu{
 	display: flex;
 	padding: 10px 0;
+	margin: 10px 0;
 }
 .logo-area{
 	flex-basis: 26%;
